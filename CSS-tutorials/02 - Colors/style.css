@@ -1,0 +1,20 @@
+#first {
+    color: rgb(196, 17, 17);
+    background: #000;
+}
+
+#second {
+    color: rgba(255, 255, 255, 0.377);
+    background: #2bff00e5;
+}
+
+#three {
+    color: #0000ff;
+    background: #f15025;
+}
+
+#four {
+    color: #f234ad;
+    background: #222;
+}
+
